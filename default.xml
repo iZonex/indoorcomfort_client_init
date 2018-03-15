@@ -3,7 +3,7 @@
   <default remote="gl" revision="default"/>
 
   <!-- You can have as many remote repositories as you like -->
-  <remote name="gl" fetch="git://github.com/iZonex/meta-indoorcomfort" />
+  <remote name="gl" fetch="git://github.com/iZonex" />
   <remote name="yocto" fetch="git://git.yoctoproject.org" />
   <remote name="oe" fetch="git://git.openembedded.org" />
 

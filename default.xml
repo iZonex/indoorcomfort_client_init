@@ -16,7 +16,8 @@
   <project name="poky" revision="refs/heads/rocko" remote="yocto" />
   <project name="meta-openembedded" revision="refs/heads/rocko"  remote="oe" path="poky/meta-openembedded" />
   <project name="meta-raspberrypi" revision="refs/heads/rocko"  remote="yocto" path="poky/meta-raspberrypi" />
-  <project name="meta-indoorcomfort" revision="master" remote="gl" path="poky/meta-indoorcomfort" />
+  <project name="meta-virtualization" revision="refs/heads/rocko" remote="yocto" path="poky/meta-virtualization" />
+  <project name="meta-indoorcomfort" revision="master" path="poky/meta-indoorcomfort" />
 
 </manifest>
 
